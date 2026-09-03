@@ -1,4 +1,4 @@
-<img width="1915" height="1049" alt="image" src="https://github.com/user-attachments/assets/dee144b1-790b-4872-8ef9-a2757d949df6" /># Olá! 👋 Sou o Marcos Paulo
+# Olá! 👋 Sou o Marcos Paulo
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Anhanguera e um entusiasta de Engenharia de Software. Atualmente, estou em busca da minha primeira oportunidade como **Estagiário em TI / Desenvolvimento de Software**.
 
