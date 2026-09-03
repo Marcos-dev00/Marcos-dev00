@@ -19,14 +19,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidad
 
 <br>
 
-## 📊 Estatísticas
-
-<p align="left">
-  <!-- Substitua SEU_USUARIO_AQUI pelo seu nome de usuário real do GitHub -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=5&theme=dark"/>
-</p>
-
 ## 📫 Como me encontrar
 
 - **LinkedIn:** [www.linkedin.com/in/marcos-paulo-8b89b23b6]
